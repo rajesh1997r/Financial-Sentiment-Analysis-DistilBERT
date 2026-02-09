@@ -61,12 +61,11 @@ To run this Jupyter Notebook on any machine, the following setup is required:
 - scikit-learn  
 - matplotlib  
 
+### LICENSE
+MIT License
+
 ### Installation
 All required libraries can be installed using:
 
 ```bash
 pip install numpy pandas torch transformers datasets scikit-learn matplotlib
-
-
-LICENSE
-MIT License
